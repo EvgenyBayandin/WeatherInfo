@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f48045dc-fc9a-44fa-a2a3-570005b2e9a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Location/src/main/java/ru/webdev/location/config/LocationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Location/src/main/java/ru/webdev/location/controller/LocationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Person/src/main/java/ru/webdev/person/config/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Person/src/main/java/ru/webdev/person/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Person/src/main/java/ru/webdev/person/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Person/src/main/java/ru/webdev/person/repository/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weather/src/main/java/ru/webdev/weather/config/WeatherConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weather/src/main/java/ru/webdev/weather/controller/WeatherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weather/src/main/java/ru/webdev/weather/model/Clouds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weather/src/main/java/ru/webdev/weather/model/Coord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weather/src/main/java/ru/webdev/weather/model/MainWeather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weather/src/main/java/ru/webdev/weather/model/Sys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weather/src/main/java/ru/webdev/weather/model/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weather/src/main/java/ru/webdev/weather/model/WeatherInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weather/src/main/java/ru/webdev/weather/model/Wind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2hQeyCSh1jNkONpMRjMJ0XhkjlG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;HTTP Request.WeatherInfo-endpoints_1 | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.WeatherInfo-endpoints_1 | #2.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.WeatherInfo-endpoints_1 | #3.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.WeatherInfo-endpoints_2 | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.WeatherInfo-endpoints_2 | #2.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.WeatherInfo-endpoints_2 | #3.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.WeatherInfo-endpoints_2 | #4.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.WeatherInfo-endpoints_3 | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.WeatherInfo-endpoints_3 | #2.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.WeatherInfo-endpoints_3 | #3.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.WeatherInfo-endpoints_4 | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.WeatherInfo-endpoints_4 | #2.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.WeatherInfo-endpoints_4 | #3.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.LocationApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.PersonApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.WeatherApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WeatherApplication">
+    <configuration name="WeatherInfo-endpoints_3 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/WeatherInfo-endpoints_3.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="WeatherInfo-endpoints_3 | #3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/WeatherInfo-endpoints_3.http" index="3" requestIdentifier="#3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="WeatherInfo-endpoints_4 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/WeatherInfo-endpoints_4.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="WeatherInfo-endpoints_4 | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/WeatherInfo-endpoints_4.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="WeatherInfo-endpoints_4 | #3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/WeatherInfo-endpoints_4.http" index="3" requestIdentifier="#3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="LocationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Location" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.webdev.location.LocationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Person" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.webdev.person.PersonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Weather" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.webdev.weather.WeatherApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.WeatherInfo-endpoints_4 | #1" />
+      <item itemvalue="HTTP Request.WeatherInfo-endpoints_4 | #2" />
+      <item itemvalue="HTTP Request.WeatherInfo-endpoints_4 | #3" />
+      <item itemvalue="HTTP Request.WeatherInfo-endpoints_3 | #1" />
+      <item itemvalue="HTTP Request.WeatherInfo-endpoints_3 | #3" />
+      <item itemvalue="Spring Boot.WeatherApplication" />
+      <item itemvalue="Spring Boot.LocationApplication" />
+      <item itemvalue="Spring Boot.PersonApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.WeatherInfo-endpoints_4 | #3" />
+        <item itemvalue="HTTP Request.WeatherInfo-endpoints_4 | #2" />
+        <item itemvalue="HTTP Request.WeatherInfo-endpoints_4 | #1" />
+        <item itemvalue="HTTP Request.WeatherInfo-endpoints_3 | #3" />
+        <item itemvalue="HTTP Request.WeatherInfo-endpoints_3 | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f48045dc-fc9a-44fa-a2a3-570005b2e9a1" name="Changes" comment="" />
+      <created>1717530982967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717530982967</updated>
+      <workItem from="1717530984077" duration="2097000" />
+      <workItem from="1717586125414" duration="306000" />
+      <workItem from="1717586444504" duration="19650000" />
+      <workItem from="1717680560492" duration="596000" />
+      <workItem from="1717682269385" duration="6422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
